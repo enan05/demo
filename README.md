@@ -1,4 +1,4 @@
 # demo
 first git repo
 <br/>
-Author - Irtizah 
+Author - Irtizah Nabil
